@@ -106,7 +106,7 @@ requests can be made using GitHub's `issues system`_.
    :target: https://travis-ci.org/shendo/netsink
    :alt: Current build status
 
-.. |pypi_version| image:: https://pypip.in/v/netsink/badge.png
+.. |pypi_version| image:: https://img.shields.io/pypi/v/netsink.svg
    :target: https://pypi.python.org/pypi/netsink
    :alt: Latest PyPI version
 
